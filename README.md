@@ -1,6 +1,20 @@
 # etc-projects
 
-## ColorPicker
+- [2018](#2018)
+  - [StickerMemo](#StickerMemo)
+  - [ColorPicker]
+  - [광산속으로]
+  - [Lawless Territory]
+- [2017]
+  - [CaveMeal]
+  - [손패찐]
+- [2016]
+  - [SpaceWar]
+
+# 2018
+
+## StickerMemo
+
 `한세사이버보안고등학교, 2018.05`
 
 TODO List용으로 만든 윈도우 스티커 메모 확장 프로그램
@@ -10,6 +24,7 @@ TODO List용으로 만든 윈도우 스티커 메모 확장 프로그램
 <img Height="200" src="https://user-images.githubusercontent.com/28612967/130631139-2299ffec-53c3-4537-ab28-05d0893f97f6.png">
 
 ## ColorPicker
+
 `한세사이버보안고등학교, 2018.05`
 
 winform을 사용한 첫 윈도우 응용프로그램. 색 추출 프로그램
@@ -19,6 +34,7 @@ winform을 사용한 첫 윈도우 응용프로그램. 색 추출 프로그램
 <img Height="200" src="https://user-images.githubusercontent.com/28612967/130630571-5dd1d767-5bca-4562-8c18-a8e4958323c1.png">
 
 ## 광산속으로
+
 `한세사이버보안고등학교, 2018.04`
 
 교내 과제로 만든 2인용 대전 액션 게임 프로토타입
@@ -37,6 +53,7 @@ winform을 사용한 첫 윈도우 응용프로그램. 색 추출 프로그램
 </div>
 
 ## Lawless Territory
+
 `한세사이버보안고등학교, 2018.03`
 
 교내 팀 프로젝트로 만든 co-op 방식의 게임 프로토타입
@@ -49,7 +66,10 @@ winform을 사용한 첫 윈도우 응용프로그램. 색 추출 프로그램
 <img Height="200" src="https://user-images.githubusercontent.com/28612967/130630116-ca392fd9-a013-4b68-9266-42ac5b3939e4.png">
 </div>
 
+# 2017
+
 ## CaveMeal
+
 `한세사이버보안고등학교, 2017.05 ~ 2018.01`
 
 넷마블게임아카데미 2기에 참가하여 만든 2D RPG 모바일 게임.  
@@ -68,6 +88,7 @@ winform을 사용한 첫 윈도우 응용프로그램. 색 추출 프로그램
 </div>
 
 ## 손패찐
+
 `한세사이버보안고등학교, 2017.11`
 
 > 교내 동아리발표대회 최우수상 수상
@@ -84,7 +105,10 @@ winform을 사용한 첫 윈도우 응용프로그램. 색 추출 프로그램
 <img Height="200" src="https://user-images.githubusercontent.com/28612967/75357740-32c19280-58f5-11ea-9c86-79ec0343109d.png">
 </div>
 
+# 2016
+
 ## SpaceWar
+
 `한세사이버보안고등학교, 2016.12`
 
 처음으로 게임 엔진을 사용하여 만든 슈팅 게임 프로젝트
