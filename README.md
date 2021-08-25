@@ -1,15 +1,15 @@
 # etc-projects
 
 - [2018](#2018)
-  - [StickerMemo](#StickerMemo)
-  - [ColorPicker]
-  - [광산속으로]
-  - [Lawless Territory]
-- [2017]
-  - [CaveMeal]
-  - [손패찐]
-- [2016]
-  - [SpaceWar]
+  - [StickerMemo](#stickermemo)
+  - [ColorPicker](#colorpicker)
+  - [광산속으로](#광산속으로)
+  - [Lawless Territory](#lawless-territory)
+- [2017](#2017)
+  - [CaveMeal](#cavemeal)
+  - [손패찐](#손패찐)
+- [2016](#2016)
+  - [SpaceWar](#spacewar)
 
 # 2018
 
